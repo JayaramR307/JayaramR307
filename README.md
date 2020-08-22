@@ -20,4 +20,4 @@ Skills/Interests:
 Data Science, Machine Learning, Deep Learning, Full Stack Development, Auomation, Blockchain, Flutter, Git/Github, Tesorflow, OpenCV, Boostrap 4, ReactJS, NodeJS 
 
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" height="800">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="1000" height="500">
