@@ -16,7 +16,7 @@
 Then I joined for Bachelors of Technology. From there I learned new languages, algorithms, compilers, higher mathematics. Developed my first website and android apps. Done numerous mini projects whenever I got the spare time. Now I'm trying my best to learn more about Artificial Intelligence and Data Science.
 
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif?raw=true" width="500" height="200" />
   
 
 **Languages and Frameworks:**
