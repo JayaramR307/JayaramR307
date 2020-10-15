@@ -1,4 +1,5 @@
-### Hi there, I'm Jayaram R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jayaram</h1>
+<h3 align="center">A Software Engineer from India</h3>
 <a href="https://twitter.com/rj_jayaram">
   <img align="left" alt="Jayaram R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -41,6 +42,5 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <code />
   
-![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
+![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight" />
 
-<div style="text-align:center"><code><img align="right" alt="GIF" src="https://miro.medium.com/max/800/0*C-cPP9D2MIyeexAT.gif?raw=true" width="700" height="250" /><code /></div>
