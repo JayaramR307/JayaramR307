@@ -16,7 +16,7 @@
 Then I joined for Bachelors of Technology. From there I learned new languages, algorithms, compilers, higher mathematics. Developed my first website and android apps. Done numerous mini projects whenever I got the spare time. Now I'm trying my best to learn more about Artificial Intelligence and Data Science.
 
 **Languages and Frameworks:**
-
+<code>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
@@ -38,5 +38,5 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-
+<code />
 ![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
