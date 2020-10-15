@@ -6,9 +6,8 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </br>
-![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
-
 ### Some Fun Facts about me:
+![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
 
 :zap: I love programming. Software Development is my passion. My first experience with programming was in my school at the age of 12. My first program was in python language printing 'Hello World'. From then on it was like a challenge for me to study more about programming. Later, I learned C, C++, Java.
 
