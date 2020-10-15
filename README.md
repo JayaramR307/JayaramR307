@@ -1,13 +1,12 @@
-### Hi there 👋, I'm Jayaram R
-
-<!--
-**JayaramR307/JayaramR307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=radical)
-### Find me:
-
-- [Twitter](https://twitter.com/rj_jayaram) :bird: 
-- [LinkedIn](https://www.linkedin.com/in/jayaram-r-58168a1a5/) 💻
+### Hi there 👋, I'm Jayaram R <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/rj_jayaram">
+  <img align="left" alt="Jayaram R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jayaram-r-58168a1a5/">
+  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</br>
+![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
 
 ### Some Fun Facts about me:
 
