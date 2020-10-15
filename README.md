@@ -16,7 +16,7 @@
 
 I'm a software engineer from Kerala, India.
 
-I love programming. My first program was printing 'Hello World' python. From then onwards programming and software development is my dream.
+I love programming.
 
 Currently, I'm a BTech CSE student. Developed numerous ML models and some websites.
 
