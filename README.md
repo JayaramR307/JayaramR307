@@ -14,9 +14,13 @@
 
 <hr>
 
-:zap: I love programming. Software Development is my passion. My first experience with programming was in my school at the age of 12. My first program was in python language printing 'Hello World'. From then on it was like a challenge for me to study more about programming. Later, I learned C, C++, Java.
+I'm a software engineer from Kerala, India.
 
-Then I joined for Bachelors of Technology. From there I learned new languages, algorithms, compilers, higher mathematics. Developed my first website and android apps. Done numerous mini projects whenever I got the spare time. Now I'm trying my best to learn more about Artificial Intelligence and Data Science.
+I love programming. My first program was printing 'Hello World' python. From then onwards programming and software development is my dream.
+
+Currently, I'm a BTech CSE student. Developed numerous ML models and some websites.
+
+Beside programming I am interested in watching movies, gaming, music and travelling.
 
 <hr>
 
