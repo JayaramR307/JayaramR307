@@ -3,7 +3,7 @@
 <!--
 **JayaramR307/JayaramR307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
+![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=radical)
 ### Find me:
 
 - [Twitter](https://twitter.com/rj_jayaram) :bird: 
@@ -21,3 +21,4 @@ Data Science, Machine Learning, Deep Learning, Full Stack Development, Auomation
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayaramR307)
 [![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/JayaramR307)](https://badges.pufler.dev)
