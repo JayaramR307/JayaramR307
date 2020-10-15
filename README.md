@@ -5,11 +5,9 @@
 <a href="https://www.linkedin.com/in/jayaram-r-58168a1a5/">
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<br/>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayaramR307)
 [![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JayaramR307)](https://badges.pufler.dev)
-
 <br/>
 ### Some Fun Facts about me:
 
