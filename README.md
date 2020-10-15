@@ -8,8 +8,6 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<hr>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayaramR307)
 [![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JayaramR307)](https://badges.pufler.dev)
@@ -51,7 +49,6 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 <hr>
 
 ![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight)](https://github.com/JayaramR307/github-readme-stats)
 
-
+<hr>
