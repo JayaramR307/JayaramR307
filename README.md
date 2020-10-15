@@ -1,5 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Jayaram</h1>
 <h3 align="center">A Software Engineer from India</h3>
+
 <a href="https://twitter.com/rj_jayaram">
   <img align="left" alt="Jayaram R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -7,16 +8,21 @@
   <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<hr>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayaramR307)
 [![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JayaramR307)](https://badges.pufler.dev)
 
+<hr>
 
 :zap: I love programming. Software Development is my passion. My first experience with programming was in my school at the age of 12. My first program was in python language printing 'Hello World'. From then on it was like a challenge for me to study more about programming. Later, I learned C, C++, Java.
 
 Then I joined for Bachelors of Technology. From there I learned new languages, algorithms, compilers, higher mathematics. Developed my first website and android apps. Done numerous mini projects whenever I got the spare time. Now I'm trying my best to learn more about Artificial Intelligence and Data Science.
 
-**Languages and Frameworks:**
+<hr>
+
+##Languages and Frameworks
 
 <code>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +48,12 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <code />
   
-<div>
-  ![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight" /> 
-  <div/>
+<hr>
+
+![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight" /> 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight)](https://github.com/JayaramR307/github-readme-stats)
+
 
