@@ -10,9 +10,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/JayaramR307)](https://badges.pufler.dev)
 
-<br/>
-
-### Some Fun Facts about me:
 
 :zap: I love programming. Software Development is my passion. My first experience with programming was in my school at the age of 12. My first program was in python language printing 'Hello World'. From then on it was like a challenge for me to study more about programming. Later, I learned C, C++, Java.
 
