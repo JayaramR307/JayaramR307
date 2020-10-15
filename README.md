@@ -52,3 +52,5 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight)](https://github.com/JayaramR307/github-readme-stats)
 
 <hr>
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
