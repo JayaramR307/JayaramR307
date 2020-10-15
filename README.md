@@ -22,7 +22,7 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 
 <hr>
 
-##Languages and Frameworks
+## Languages and Frameworks
 
 <code>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,9 +51,7 @@ Then I joined for Bachelors of Technology. From there I learned new languages, a
 <hr>
 
 ![Jayaram's github stats](https://github-readme-stats.vercel.app/api?username=JayaramR307&show_icons=true&theme=tokyonight)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight" /> 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayaramR307&layout=compact&theme=tokyonight)](https://github.com/JayaramR307/github-readme-stats)
 
 
