@@ -20,3 +20,4 @@ Skills/Interests:
 Data Science, Machine Learning, Deep Learning, Full Stack Development, Auomation, Blockchain, Flutter, Git/Github, Tesorflow, OpenCV, Boostrap 4, ReactJS, NodeJS 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=JayaramR307)
+[![Repos Badge](https://badges.pufler.dev/repos/JayaramR307)](https://badges.pufler.dev)
