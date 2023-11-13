@@ -16,9 +16,8 @@
 
 I'm a software engineer from Kerala, India.
 
-I love programming.
-
-Currently, I'm a BTech CSE student. Developed numerous ML models and some websites.
+I'm working as Project Engineer at CDAC, Trivandrum.
+Currently I'm working on Quantum Key Distribution Network and Opensource 5G Core Network
 
 Beside programming I am interested in watching movies, gaming, music and travelling.
 
